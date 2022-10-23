@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahedi178&label=Profile%20views&color=0e75b6&style=flat" alt="mahedi178" /> </p>
+
 - 👋 Hi, I’m @Mahedi178
 - 👀 I’m interested in javascript, mongodb, machine learning
 - 🌱 I’m currently learning data structure, javascript
